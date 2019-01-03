@@ -4,6 +4,7 @@
  *
  *  Author: 
  *    Kevin LaFramboise (krlaframboise)
+ *    Forked to me
  *
  *  URL to documentation:  https://community.smartthings.com/t/release-zooz-4-in-1-sensor/82989?u=krlaframboise
  *    
